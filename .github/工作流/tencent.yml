@@ -2,7 +2,7 @@ name: 部署hexo静态页面
 
 env:
   # blog部署的页面
-  BLOG: flytam/blog
+  BLOG: 工作流/tencent
 
 on:
   push:
